@@ -24,7 +24,7 @@ function translate () {
 
 function clearInput() {
     input.value = '';
-    output.innerText = '';
+    output.value = '';
 }
 
 button.addEventListener('click', translate);
