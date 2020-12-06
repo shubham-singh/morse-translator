@@ -1,2 +1,2 @@
-# upisdown-translator
- Convert normal text upside down
+# morse-translator
+Translate your human language into Morse code.
